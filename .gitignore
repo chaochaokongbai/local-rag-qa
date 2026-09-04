@@ -1,0 +1,16 @@
+# 练习/临时文件（不需要上传）
+1.py
+TEST.py
+day3_chunk.py
+day4_embed_test.py
+day5_chroma.py
+day5test.py
+ollama_test.py
+
+# 自动生成的缓存/数据（不需要上传）
+__pycache__/
+*.pyc
+.gradio/
+chroma_data/
+chroma1_data/
+chat_history.db
